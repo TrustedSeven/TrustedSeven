@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
   <p>
 
-  Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. 
+  Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. 
   
   Very familiar with all tech stacks related to web and mobile development. React and MERN stack is my best tech stack and also familiar with Vue, Angular, WordPress, Laravel, Node, PHP and React Native, Flutter, Swift, Java for mobiles.
   
