@@ -5,7 +5,7 @@
 
   Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. 
   
-  Very familiar with all tech stacks related to web and mobile development. React and MERN stack is my best tech stack and also familiar with Vue, Angular, WordPress, Laravel, Node, PHP and React Native, Flutter, Swift, Java for mobiles.
+  Very familiar with all tech stacks related to web and mobile development. I am familiar with React, Vue, Angular, WordPress, Laravel, Node, PHP and React Native, Flutter, Swift, Java.
   
   Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. 
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
